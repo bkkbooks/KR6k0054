@@ -40,9 +40,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6k0054_000.yaml, hash: 'sha256:ef702595e8fc55c485115735c53d27dfa95f618361ea6a0330d2c645a33fba5e'}
-  - {seq: 1, filename: KR6k0054_001.yaml, hash: 'sha256:86c7e3fd6d18eb1a0ff43b628047dd4e54c2394755a59e49e40d80dace306a4c'}
+  - {seq: 1, filename: KR6k0054_001.yaml, hash: 'sha256:974fe89cd1bbab9cf62dfb56035c6fd8473f3b0b988aeb0532ab4d8c4fbf6f50'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6k0054_001.markers.yaml, hash: 'sha256:95e8da24bb8cc0dc307c89f621435675392324b42df44ac6a19d890d1a06b597'}
+  - {seq: 0, role: markers, filename: assets/KR6k0054_000.markers.yaml, hash: 'sha256:3873e7781614c2c2e959729b4e8c7eee9667ecb9395c26ad5523b5aab39d8839'}
+  - {seq: 1, role: markers, filename: assets/KR6k0054_001.markers.yaml, hash: 'sha256:fb8fe7cefd11aadad515fa75146500a312baf4f7f81878ee63550dcafb002520'}
 table_of_contents:
 - ref:
     seq: 1
@@ -54,7 +55,4 @@ table_of_contents:
   label: 優波離問佛經
   type: juan
   level: 1
-hash: sha256:ce7d84ca83619a374c002f6f116406b958e6ca962eed7465696abf1702ebe3ce
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:b050c117395ec8249df07618c9b1bee00a171ebc7478ff4dfcfa7f8c88a010d1
